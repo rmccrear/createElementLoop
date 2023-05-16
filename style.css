@@ -1,0 +1,60 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+div {
+  margin: 20px;
+}
+
+#cookie-box-robert {
+  border: solid red;
+}
+
+#cookie-box-thomas {
+  border: solid blue;
+}
+
+#cookie-box-bianca {
+  border: solid limegreen;
+}
+
+#dee-matcha-cookie {
+  border: solid #ff47a3;
+}
+
+#my-cookie-box {
+  border: dotted lightblue;
+  color: red;
+  text-align: center;
+  font: bold;
+  font-size: 15px;
+}
+
+#jay-cookies {
+  border: solid lightseagreen;
+  text-align: center;
+  font: bold;
+  font-size: 50px;
+}
+
+#donut-box-gerard {
+  border: solid blue;
+  color: black;
+  text-align: center;
+  font: bold;
+}
+
+#my-cookie-box-Anya {
+  border: solid yellow;
+  text-align: center;
+  font: bold;
+  font-size: 100px
+}
+
+#andrea-lemon-drop {
+  border: solid purple;
+  text-align: center;
+  font: bold;
+  font-size: 20px
+}
